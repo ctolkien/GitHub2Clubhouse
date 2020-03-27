@@ -17,9 +17,9 @@
 
   <ItemGroup>
     <PackageReference Include="ClubHouse" Version="2.0.0" />
-    <PackageReference Include="Octokit" Version="0.24.1-alpha0001" />
-    <PackageReference Include="System.Runtime" Version="4.3.0" />
-    <PackageReference Include="System.ValueTuple" Version="4.4.0-preview1-25305-02" />
+    <PackageReference Include="Octokit" Version="0.46.0" />
+    <PackageReference Include="System.Runtime" Version="4.3.1" />
+    <PackageReference Include="System.ValueTuple" Version="4.5.0" />
   </ItemGroup>
 
 </Project>
